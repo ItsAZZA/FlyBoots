@@ -1,0 +1,7 @@
+name: FlyBoots
+version: ${project.version}
+main: com.itsazza.flyboots.FlyBoots
+api-version: 1.16
+authors: [ ItsAZZA ]
+description: Adds a recipe for fly boots which allow creative flight on Survival.
+website: https://bcsn.us
